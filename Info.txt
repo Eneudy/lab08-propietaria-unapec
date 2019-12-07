@@ -1,0 +1,15 @@
+
+Image server url: 
+	http://localhost:50610/Home/Images?name=img02
+
+
+Image client app: 
+	utils module
+	Image name parameter
+        Download flag
+
+	Call with not parameter
+	Call with name parameter
+	Call with name parameter --download flag
+	Call with name parameter -d flag
+	
