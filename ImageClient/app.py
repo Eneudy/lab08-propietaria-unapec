@@ -19,8 +19,8 @@ def main(name, download):
         click.echo("Image downloaded successfully")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     try:
         main()
     except Exception as e:
-        print(f"Ha ocurrido un error: \n{e}")
+        print(f"Client error: \n{e}")
